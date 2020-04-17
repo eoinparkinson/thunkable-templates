@@ -45,11 +45,6 @@ sections:
     actions:
       - label: View Blog
         url: blog/index.html
-  - type: contactblock
-    title: Contact Us
-    section_id: contact
-    component: contact_block.html
-    subtitle: An optional subtitle of the section
 menus:
   main:
     title: Home
