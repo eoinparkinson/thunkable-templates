@@ -4,7 +4,7 @@ permalink: /:title/
 color_scheme: light
 accent_color: blue
 header:
-  title: Clean Templates For Thunkable X
+  title: Thunkable X Templates
   has_nav: true
 sass:
   indentWidth: 4
@@ -21,7 +21,7 @@ footer:
     - new_window: true
       text: Thunkable
       url: https://thunkable.com
-  has_social: true
+  has_social: false
 exclude:
   - Gemfile
   - Gemfile.lock
