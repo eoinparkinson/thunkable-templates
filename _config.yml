@@ -6,7 +6,7 @@ accent_color: blue
 header:
   title: Thunkable X Templates
   has_nav: true
-  logo_img: /images/blue-purple-gradient.png
+  logo_img: ""
 sass:
   indentWidth: 4
   style: nested
