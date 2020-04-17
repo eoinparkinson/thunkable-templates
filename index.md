@@ -9,7 +9,7 @@ sections:
       Clean, modern templates, for Thunkable X.
 
 
-      ![Home Image - Gameboy](/images/photo-of-multicolored-abstract-painting-1193743.jpg)
+      ![Home Image - Gameboy](/images/41a790bc-1ab7-45c5-a73b-34b55665ef0f_iphonexspacegrey_portrait.png)
   - view_all_text: View All
     num_projects_displayed: 6
     section_id: latest-projects
