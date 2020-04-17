@@ -5,12 +5,11 @@ sections:
     title: Clean Templates For Thunkable X
     section_id: hero
     component: hero_block.html
-    content: |-
-      
-
+    content: >-
       Clean, modern templates, for Thunkable X.
 
-      ![Home Image - Gameboy](/images/6.jpg)
+
+      ![Home Image - Gameboy](/images/photo-of-multicolored-abstract-painting-1193743.jpg)
   - view_all_text: View All
     num_projects_displayed: 6
     section_id: latest-projects
