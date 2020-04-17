@@ -1,24 +1,27 @@
-title: Stackbit Exto Theme
+title: Thunkable X Templates
 baseurl: /
-permalink: '/:title/'
+permalink: /:title/
 color_scheme: light
-accent_color: pink
+accent_color: blue
 header:
-  title: Exto
+  title: Clean Templates For Thunkable X
   has_nav: true
-footer:
-  content: '&copy; Stackbit-Exto. All rights reserved.'
-  links:
-    - text: Made with Stackbit
-      url: 'https://www.stackbit.com'
-      new_window: true
-  has_social: true
 sass:
   indentWidth: 4
   style: nested
   precision: 10
 plugins:
   - jekyll-menus
+collections:
+  posts:
+    permalink: /posts/:title/
+footer:
+  content: Made with ❤️️ for Thunkers.
+  links:
+    - new_window: true
+      text: Thunkable
+      url: https://thunkable.com
+  has_social: true
 exclude:
   - Gemfile
   - Gemfile.lock
@@ -33,6 +36,3 @@ exclude:
   - netlify.toml
   - stackbit-build.sh
   - stackbit-pull.js
-collections:
-  posts:
-    permalink: '/posts/:title/'
