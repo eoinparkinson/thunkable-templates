@@ -10,7 +10,7 @@ sections:
       how to customise them, to suit your theme. 
 
 
-      ![Home Image - Phone](/images/41a790bc-1ab7-45c5-a73b-34b55665ef0f_iphonexspacegrey_portrait.png)
+      ![Home Image - Phone](/images/thunkable-x-templates-home-page-banner.jpg)
   - view_all_text: View All
     num_projects_displayed: 6
     section_id: latest-projects
