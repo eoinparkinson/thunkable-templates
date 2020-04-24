@@ -10,6 +10,12 @@ sections:
       how to customise them, to suit your theme. 
 
 
+      ![Image looking down onto paint brushes and paper.](/images/thunkable-x-templates-home-page-banner.jpg)
+
+
+      Ready to get started? [Jump in!](/portfolio)
+
+
       ![Home Image - Phone](/images/thunkable-x-templates-home-page-banner.jpg)
   - view_all_text: View All
     num_projects_displayed: 6
