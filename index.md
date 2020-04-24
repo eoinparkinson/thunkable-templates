@@ -16,7 +16,7 @@ sections:
       Ready to get started? [Jump in!](/portfolio)
 
 
-      ![Home Image - Phone](/images/thunkable-x-templates-home-page-banner.jpg)
+      ![]()
   - view_all_text: View All
     num_projects_displayed: 6
     section_id: latest-projects
