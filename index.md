@@ -6,7 +6,8 @@ sections:
     section_id: hero
     component: hero_block.html
     content: >-
-      Clean, modern templates, for Thunkable X.
+      Clean & modern templates for Thunkable X with step by step instructions on
+      how to customise them, to suit your theme. 
 
 
       ![Home Image - Gameboy](/images/41a790bc-1ab7-45c5-a73b-34b55665ef0f_iphonexspacegrey_portrait.png)
