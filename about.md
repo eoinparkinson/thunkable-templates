@@ -1,18 +1,21 @@
 ---
-title: About Us
-subtitle: This is a short page about us and our work.
-img_path: images/about.jpg
+title: Abou
+subtitle: About this site
+img_path: /images/6.jpg
 menus:
   main:
     title: About
     weight: 4
 layout: page
 ---
+> **This site is for you, to use however you want, as much as you want.**
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus vel venenatis augue. Suspendisse tincidunt, nibh eget sodales eleifend, lectus magna elementum lorem, ut bibendum tellus turpis quis risus. Vivamus sagittis enim est, et semper lectus hendrerit ut.
+All templates contain detailed, human friendly instructions, that guide you on how to change things up, or just make them work. Feel free to remix, adjust, add to, or break these templates, if you're into that. There aren't any rules here. 
 
->The world always seems brighter when you’ve just made something that wasn’t there before. - Neil Gaiman
 
-In sollicitudin imperdiet turpis quis accumsan. Pellentesque euismod turpis et nisi fermentum accumsan. Sed mollis vehicula augue sit amet accumsan. Nunc mollis, risus sed ullamcorper bibendum, odio est molestie tellus, venenatis rutrum mauris nibh at nibh. In a auctor leo, eu pretium ante. Quisque faucibus tincidunt fringilla. Donec tempor accumsan ante, in cursus metus tincidunt at. Proin sit amet ligula sed libero consequat consectetur eu tincidunt nulla. 
 
-*Thank You for reading!*
+Whether you're an experienced Thunker or just starting out, we hope you find some information, inspiration or solutions here. 
+
+
+
+If you enjoy using our templates, maybe share our website on Twitter, or direct someone who could make use of this either through your own experience our through this website.
