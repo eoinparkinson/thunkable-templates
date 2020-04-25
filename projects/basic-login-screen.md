@@ -5,6 +5,10 @@ date: 2020-04-25T00:25:00.337Z
 thumb_img_path: /images/basic-login-screen-post-1.png
 layout: project
 ---
-# **Basic Login Screen**
+![](/images/41a790bc-1ab7-45c5-a73b-34b55665ef0f_iphonexspacegrey_portrait.png)
 
-Design is tricky, but it is trickier when it is made complex. This theme kills two birds with the one stone. It looks complex with merging colours and rounded corners, but it's really quite simple. But don't let the word "**simple**" fool you! This theme has a lot to offer, including reliability.
+*Here goes the first template :)*
+
+> Changing the colours:
+
+This template comes pre-loaded with 10 different colour variations.
