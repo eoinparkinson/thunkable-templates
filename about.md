@@ -1,6 +1,6 @@
 ---
-title: Abou
-subtitle: About this site
+title: About
+subtitle: ""
 img_path: /images/6.jpg
 menus:
   main:
