@@ -10,7 +10,7 @@ sections:
       how to customise them, to suit your theme. 
 
 
-      ![Image looking down onto paint brushes and paper.](/images/thunkable-x-templates-home-page-banner.jpg)
+      ![Image looking down onto paint brushes and paper.](/images/thunkable-x-templates-header.jpg)
 
 
       > Ready to get started? [Jump In!](/portfolio)
