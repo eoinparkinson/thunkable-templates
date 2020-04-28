@@ -7,7 +7,7 @@ layout: post
 ---
 ![Getting Started With Firebase Authentication And Thunkable X](/images/firebase-auth-tutorial-thunkable-x-templates.png)
 
-So you've picked one of our beautiful templates. Now you're ready to make that thing work!
+So you've picked one of our beautiful templates. Now you're ready to make it work!
 
 **All our login templates follow the same naming structure when working with text inputs.** If you see an issue, make sure to let us know!
 
