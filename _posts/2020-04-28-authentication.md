@@ -11,7 +11,7 @@ So you've picked one of our beautiful templates. Now you're ready to make it wor
 
 **All our login templates follow the same component naming structure.** This means you can use this one guide for ALL of our login templates!
 
-Also make note that you can click on an image to open it in a new tab, so you can get a good look at it.
+
 
 # To Begin
 
