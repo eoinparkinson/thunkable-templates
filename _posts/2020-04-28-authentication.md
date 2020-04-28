@@ -11,4 +11,13 @@ So you've picked one of our beautiful templates. Now you're ready to make it wor
 
 # To Begin
 
-Assuming you've chosen [one of our templates](/portfolio),
+Assuming you've chosen [one of our templates](/portfolio), open up the template. Here you're going to see 4 screens at the top of the designer tab:
+
+* Loading
+* Sign Up
+* Sign In
+* Home
+
+![](/images/step-1.png)
+
+Make sure the loading screen is at the top of the component list, which is located on the left of your designer screen.
