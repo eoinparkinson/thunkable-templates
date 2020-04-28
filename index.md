@@ -20,6 +20,12 @@ sections:
 
 
       ![]()
+  - type: postsblock
+    component: posts_block.html
+    actions:
+      - label: View Templates
+        url: /portfolio
+    num_posts_displayed: 1
   - view_all_text: View All
     num_projects_displayed: 6
     section_id: latest-projects
