@@ -25,6 +25,8 @@ Assuming you've chosen [one of our templates](/portfolio), open up the template.
 
 ![Step 1](/images/step-1.png)
 
+[Open image in new tab](/images/step-1.png)
+
 Make sure the loading screen is at the top of the component list, which is located on the left of your designer screen. This is shown in the image above with the blue arrow.
 
 # The Code
