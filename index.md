@@ -16,7 +16,7 @@ sections:
       > Ready to get started? [Jump In!](/portfolio)
 
 
-      Like the app mock-ups seen here? [Get them here!](https://app-mockup.com/)
+      ###### Like the app mock-ups seen here? [Get them here!](https://app-mockup.com/)
 
 
       ![]()
