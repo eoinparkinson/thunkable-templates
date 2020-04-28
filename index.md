@@ -43,7 +43,7 @@ sections:
           templates are clean and modern, and include instructions on how to
           change colours and data.
   - type: postsblock
-    title: ""
+    title: Posts & Guides
     section_id: latest-posts
     component: posts_block.html
     subtitle: ""
