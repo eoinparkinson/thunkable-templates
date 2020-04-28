@@ -15,6 +15,8 @@ Also make note that you can click on an image to open it in a new tab, so you ca
 
 # To Begin
 
+## Step 1:
+
 Assuming you've chosen [one of our templates](/portfolio), open up the template. Here you're going to see 5 screens at the top of the designer tab:
 
 * Loading
@@ -27,30 +29,30 @@ Assuming you've chosen [one of our templates](/portfolio), open up the template.
 
 ![Step 1](/images/step-1.png)
 
-[Open image in tab](/images/step-1.png)
+[Open image in tab.](/images/step-1.png)
 
-Make sure the loading screen is at the top of the component list, which is located on the left of your designer screen. This is shown in the image above with the blue arrow.
+Make sure the loading screen is at the top of the component list, which is located on the left of your designer screen. This is shown in the image above with the blue arrow. Once we can confirm all our screens are there we will begin the next step.
 
-# The Code
+# Setting Up Firebase
 
 Okay now we're going to start getting into it. Don't worry, it's not going to be difficult. There will be no fancy words or skipping steps. We will cover every bit of this. That way if you know a step you can skip it, and if you don't understand it, you soon will!
 
-## Step 1:
+## Step 2:
 
-First things first we're going to head over to [Firebase](https://firebase.google.com).
-
-
-
-Click **Go to console**.
+First things first we're going to head over to [Firebase](https://firebase.google.com). Click **Go to console**.
 
 ![Step 2](/images/step-2.png)
 
+[Open image in tab.](/images/step-2.png)
 
+
+
+## Step 3:
 
 You will be greeted by a sign in screen. If you aren't, then you're already signed in! Go ahead and sign in with your Google Account.
 
 ![Step 3](/images/step-3.png)
 
-
+[Open image in tab.](/images/step-3.png)
 
 Once we're signed in we will be greeted with our Firebase Dashboard.
