@@ -19,6 +19,8 @@ Assuming you've chosen [one of our templates](/portfolio), open up the template.
 * Forgot Password
 * Home
 
+*Don't worry if there are extra screens, just make sure the five screens above are there and in the order shown below.*
+
 ![Step 1](/images/step-1.png)
 
 Make sure the loading screen is at the top of the component list, which is located on the left of your designer screen. This is shown in the image above with the blue arrow.
