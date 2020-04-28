@@ -9,9 +9,7 @@ layout: post
 
 So you've picked one of our beautiful templates. Now you're ready to make it work!
 
-**All our login templates follow the same naming structure when working with text inputs.** If you see an issue, make sure to let us know!
-
-
+**All our login templates follow the same naming structure when working with text inputs.** This means you can use this one guide for ALL of our login templates!
 
 # To Begin
 
