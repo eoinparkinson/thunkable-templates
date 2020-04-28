@@ -22,7 +22,7 @@ sections:
     section_id: latest-projects
     view_all_url: portfolio/index.html
     subtitle: ""
-    title: Recently Added Templates
+    title: Browse Templates
     type: portfolioblock
     layout_style: mosaic
     component: portfolio_block.html
