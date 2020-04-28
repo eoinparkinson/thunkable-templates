@@ -9,6 +9,8 @@ So you've picked one of our beautiful templates. Now you're ready to make it wor
 
 **All our login templates follow the same component naming structure.** This means you can use this one guide for ALL of our login templates!
 
+Also make note that you can click on an image to open it in a new tab, so you can get a good look at it.
+
 # To Begin
 
 Assuming you've chosen [one of our templates](/portfolio), open up the template. Here you're going to see 5 screens at the top of the designer tab:
