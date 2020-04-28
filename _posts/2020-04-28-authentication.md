@@ -13,7 +13,7 @@ So you've picked one of our beautiful templates. Now you're ready to make it wor
 
 
 
-# Part 1 - To Begin
+# Part 1 - Setup
 
 ## Step 1:
 
