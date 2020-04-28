@@ -13,7 +13,10 @@ sections:
       ![Image looking down onto paint brushes and paper.](/images/thunkable-x-templates-home-page-banner.jpg)
 
 
-      Ready to get started? [Jump in!](/portfolio)
+      [View Templates](/portfolio)
+
+
+      [Clean App Mock-ups for App/Play Store](https://app-mockup.com/)
 
 
       ![]()
