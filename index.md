@@ -49,11 +49,11 @@ sections:
           templates are clean and modern, and include instructions on how to
           change colours and data.
   - type: postsblock
-    title: Latest from the Blog
+    title: ""
     section_id: latest-posts
     component: posts_block.html
-    subtitle: An optional subtitle of the section
-    num_posts_displayed: 2
+    subtitle: ""
+    num_posts_displayed: 0
     actions:
       - label: View Blog
         url: blog/index.html
