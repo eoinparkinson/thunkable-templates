@@ -1,8 +1,8 @@
 ---
-title: Blog
+title: Posts & Guides
 menus:
   main:
-    title: Blog
+    title: Posts & Guides
     weight: 3
 layout: blog
 ---
