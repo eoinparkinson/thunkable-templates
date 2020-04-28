@@ -11,13 +11,18 @@ So you've picked one of our beautiful templates. Now you're ready to make it wor
 
 # To Begin
 
-Assuming you've chosen [one of our templates](/portfolio), open up the template. Here you're going to see 4 screens at the top of the designer tab:
+Assuming you've chosen [one of our templates](/portfolio), open up the template. Here you're going to see 5 screens at the top of the designer tab:
 
 * Loading
 * Sign Up
 * Sign In
+* Forgot Password
 * Home
 
 ![Step 1](/images/step-1.png)
 
-Make sure the loading screen is at the top of the component list, which is located on the left of your designer screen.
+Make sure the loading screen is at the top of the component list, which is located on the left of your designer screen. This is shown in the image above with the blue arrow.
+
+# The Code
+
+Okay now we're going to start getting into it. Don't worry, it's not going to be difficult. There will be no fancy words or skipping steps. We will cover every bit of this. That way if you know a step you can skip it, and if you don't understand it, you soon will!
