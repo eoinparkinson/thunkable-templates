@@ -35,9 +35,9 @@ Think of it like the top tab is your shopping basket and the bottom tab is the s
 
 To add components we simply drag them onto our screen view. We are going to add the **Authentication** component to our project.
 
-![Step 2](/images/step-2.gif)
+![Step 2](/images/step-2-part-2.gif)
 
-[View gif in tab.](/images/step-2.gif)
+[View gif in tab.](/images/step-2-part-2.gif)
 
 ## Step 3:
 
