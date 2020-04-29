@@ -63,8 +63,16 @@ Once we're signed in we will be greeted with our Firebase Dashboard. Go ahead an
 
 ## Step 5:
 
-Name your project something. It's best to name your project the same as your Thunkable app. This will come in handy when you have lots of projects. 
+Name your project something. It's best to name your project the same as your Thunkable app. This will come in handy when you have lots of projects. Click **Continue** to proceed.
 
 ![Step 5](/images/step-5.png)
 
 [Open image in tab.](/images/step-5.png)
+
+## Step 6:
+
+Firebase has many useful data analytic features. This is completely optional. This will not affect your Firebase project performance or cost (in case you're wondering, the project is free!). If the box is already ticked here you can leave it be and click **Continue**.
+
+![Step 6](/images/step-6.png)
+
+[Open image in tab.](/images/step-6.png)
