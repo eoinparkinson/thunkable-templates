@@ -31,6 +31,8 @@ Make sure the loading screen is at the top of the component list, which is locat
 
 ## Setting Up Firebase
 
+###### If you already know how to set up and link your Firebase project, skip to Part 2.
+
 Okay now we're going to start getting into it. Don't worry, it's not going to be difficult. There will be no fancy words or skipping steps. We will cover every bit of this. That way if you know a step you can skip it, and if you don't understand it, you soon will!
 
 ## Step 2:
