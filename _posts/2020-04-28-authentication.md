@@ -5,6 +5,8 @@ date: 2020-04-28T21:47:23.557Z
 thumb_img_path: /images/firebase-auth-tutorial-thunkable-x-templates.png
 layout: post
 ---
+
+
 So you've picked one of our beautiful templates. Now you're ready to make it work!
 
 **All our login templates follow the same component naming structure.** This means you can use this one guide for ALL of our login templates!
@@ -110,3 +112,25 @@ Now we want to select **Set up sign-in method**.
 [View image in tab.](/images/step-10.png)
 
 ## Step 11:
+
+Here we are going to click on the **Email/Password** option.
+
+![Step 11](/images/step-11.png)
+
+[View image in tab.](/images/step-11.png)
+
+## Step 12:
+
+This will expand the **Email/Password** option. From here we want to toggle the top **Enable** switch. The enable switch to the right of "*Email link (passwordless sign-in)*"is not a feature currently supported in any of our templates so we want to leave this disabled.
+
+![Step 12](/images/step-12.png)
+
+[View image in tab.](/images/step-12.png)
+
+## Step 13:
+
+We're almost done with setting up Firebase. Click **Save** to complete this setting. Now your project supports email and password sign in. Next step is to connect it with your Thunkable app.
+
+![Step 13](/images/step-13.png)
+
+[View image in tab.](/images/step-13.png)
