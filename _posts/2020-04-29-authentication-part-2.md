@@ -43,8 +43,10 @@ To add components we simply drag them onto our screen view. We are going to add 
 
 Now that we have our Authentication component added, we can start the blocks. If you haven't already set your Firebase URL and API Key in Thunkable, pop back to [Part 1](/posts/authentication), I'll wait right here!
 
-Sorted? Lets jump into the blocks tab. To do this we are going to bring our mouse to the top left of the screen and click on **Blocks**.
+Sorted? Lets jump into the blocks tab. To do this we are going to make sure the **Loading** screen is selected, as is indicated by the red circle, and bring our mouse to the top left of the screen and click on **Blocks**.
 
 ![Step 3](/images/step-3-part-2.png)
 
 [View image in tab.](/images/step-3-part-2.png)
+
+## Part 4:
