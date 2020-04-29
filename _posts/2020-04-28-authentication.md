@@ -134,3 +134,19 @@ We're almost done with setting up Firebase. Click **Save** to complete this sett
 ![Step 13](/images/step-13.png)
 
 [View image in tab.](/images/step-13.png)
+
+## Step 14:
+
+In the navigation menu on the left of your Firebase Console,at the top you will see a settings icon. We're going to click on it.
+
+![Step 14](/images/step-14.png)
+
+[View image in tab.](/images/step-14.png)
+
+After we click on it we will get a small menu with 3 options. Choose **Project settings**.
+
+![Step 14.2](/images/step-14.2.png)
+
+[View image in tab.](/images/step-14.2.png)
+
+## Step 15:
