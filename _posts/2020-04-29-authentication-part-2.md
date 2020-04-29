@@ -6,3 +6,13 @@ thumb_img_path: /images/firebase-auth-part-2-banner.png
 layout: post
 ---
 This part of the guide will take you step by step on **adding the blocks** to work with one of our templates. If you haven't set yourself up with **Firebase** yet, you can check out [Part 1](/posts/authentication) where we take you step by step on getting started with Firebase and Thunkable X.
+
+
+
+## Okay, let's begin!
+
+
+
+# Part 2 - The Blocks
+
+There are going to be a lot of steps in this part, but don't let this overwhelm you. As with [Part 1](/posts/authentication), we will cover everything here.
