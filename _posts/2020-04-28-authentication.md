@@ -5,13 +5,9 @@ date: 2020-04-28T21:47:23.557Z
 thumb_img_path: /images/firebase-auth-tutorial-thunkable-x-templates.png
 layout: post
 ---
-
-
 So you've picked one of our beautiful templates. Now you're ready to make it work!
 
 **All our login templates follow the same component naming structure.** This means you can use this one guide for ALL of our login templates!
-
-
 
 # Part 1 - Setup
 
@@ -45,8 +41,6 @@ First things first we're going to head over to [Firebase](https://firebase.googl
 
 [Open image in tab.](/images/step-2.png)
 
-
-
 ## Step 3:
 
 You will be greeted by a sign in screen. If you aren't, then you're already signed in! Go ahead and sign in with your Google Account.
@@ -55,4 +49,10 @@ You will be greeted by a sign in screen. If you aren't, then you're already sign
 
 [Open image in tab.](/images/step-3.png)
 
-Once we're signed in we will be greeted with our Firebase Dashboard.
+## Step 4:
+
+Once we're signed in we will be greeted with our Firebase Dashboard. Go ahead and click **Create a project**.
+
+![Step 4](/images/step-4.png)
+
+[Open image in tab.](/images/step-4.png)
