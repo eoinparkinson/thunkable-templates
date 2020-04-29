@@ -170,3 +170,13 @@ Next we are going to copy down our **Database URL**. This is the second of the t
 [View image in tab.](/images/step-16.png)
 
 ## Step 17:
+
+Once the Database page loads, scroll down until you see the option **Realtime Database**. Under this option click **Create Database**. 
+
+The reason we create a database is so we can use it for other features such as storing users information. It is also how we can retrieve the **Database URL**.
+
+![Step 17](/images/step-17.png)
+
+[View image in tab.](/images/step-17.png)
+
+Step 18:
