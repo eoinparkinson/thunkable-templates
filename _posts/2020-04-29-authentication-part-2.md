@@ -33,7 +33,7 @@ On the left hand side of the screen we have 2 tabs.
 
 Think of it like the top tab is your shopping basket and the bottom tab is the shop.
 
-To add components we simply drag them onto our screen view. We are going to add the **Authentication** component to our project.
+To add components we simply drag them onto our screen view. We are going to add the **Authentication** component called **Sign In** to our project.
 
 ![Step 2](/images/step-2-part-2.gif)
 
