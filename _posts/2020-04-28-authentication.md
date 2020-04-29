@@ -29,6 +29,8 @@ Assuming you've chosen [one of our templates](/portfolio), open up the template.
 
 Make sure the loading screen is at the top of the component list, which is located on the left of your design view. This is shown in the image above with the blue arrow. **Once we can confirm all our screens are there we will begin the next step.**
 
+
+
 ## Setting Up Firebase
 
 ###### If you already know how to set up and link your Firebase project, skip to Part 2.
