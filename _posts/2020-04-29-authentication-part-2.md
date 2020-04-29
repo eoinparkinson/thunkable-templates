@@ -21,3 +21,9 @@ There are going to be a lot of steps in this part, but don't let this overwhelm 
 ## Step 1:
 
 Open back up into [x.thunkable.com](https://x.thunkable.com) and into your project which contains the login template.
+
+![Step 1](/images/step-1-part-2.png)
+
+[View image in tab.](/images/step-1-part-2.png)
+
+## Step 2:
