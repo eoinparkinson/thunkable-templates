@@ -150,3 +150,11 @@ After we click on it we will get a small menu with 3 options. Choose **Project s
 [View image in tab.](/images/step-14.2.png)
 
 ## Step 15:
+
+We now have access to our **API Key**. We need this piece of information along with our **Database URL**. 
+
+Take note of the string of text circled in red. Your Web API Key will be different to this, so don't use the one in the image. If you do your project simply won't work.
+
+![Step 15](/images/step-15.png)
+
+[View image in tab.](/images/step-15.png)
