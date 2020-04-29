@@ -1,21 +1,21 @@
 ---
-title: Firebase Authentication
-subtitle: Getting started with Firebase & Our Templates
+title: Firebase Authentication - Part 1
+subtitle: Setting up Firebase Authentication
 date: 2020-04-28T21:47:23.557Z
 thumb_img_path: /images/firebase-auth-tutorial-thunkable-x-templates.png
 layout: post
 ---
-
-
 So you've picked one of our beautiful templates. Now you're ready to make it work!
 
-**All our login templates follow the same component naming structure.** This means you can use this one guide for ALL of our login templates!
+If you know how to set up Firebase with Thunkable, skip to **Part 2**.
 
 # Part 1 - Setup
 
 ## Step 1:
 
-Assuming you've chosen [one of our templates](/portfolio), open up the template. Here you're going to see 5 screens at the top of the designer tab:
+Assuming you've chosen [one of our templates](/portfolio), open up the template. This will only take a minute. This is good practice when using our templates so you know what you're dealing with.
+
+Here you're going to see 5 screens at the top of the designer tab:
 
 * Loading
 * Sign Up
@@ -212,8 +212,6 @@ On the right hand side of your screen the properties tab will have changed to ap
 ![Step 21](/images/step-21.png)
 
 [View image in tab.](/images/step-21.png)
-
-
 
 # And that's it!
 
