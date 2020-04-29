@@ -3,6 +3,7 @@ title: Firebase Authentication - Part 1
 subtitle: Setting up Firebase Authentication
 date: 2020-04-28T21:47:23.557Z
 thumb_img_path: /images/firebase-auth-part-1-banner.png
+excerpt: Part 1 - Setting Up Firebase Authentication
 layout: post
 ---
 So you've picked one of our beautiful templates. Now you're ready to make it work!
