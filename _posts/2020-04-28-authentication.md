@@ -60,3 +60,11 @@ Once we're signed in we will be greeted with our Firebase Dashboard. Go ahead an
 ![Step 4](/images/step-4.png)
 
 [Open image in tab.](/images/step-4.png)
+
+## Step 5:
+
+Name your project something. It's best to name your project the same as your Thunkable app. This will come in handy when you have lots of projects. 
+
+![Step 5](/images/step-5.png)
+
+[Open image in tab.](/images/step-5.png)
