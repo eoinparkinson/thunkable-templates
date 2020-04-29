@@ -102,3 +102,11 @@ On the left of your screen now you will see a navigation menu. If you don't see 
 [View image in tab.](/images/step-9.png)
 
 ## Step 10:
+
+Now we want to select **Set up sign-in method**.
+
+![Step 10](/images/step-10.png)
+
+[View image in tab.](/images/step-10.png)
+
+## Step 11:
