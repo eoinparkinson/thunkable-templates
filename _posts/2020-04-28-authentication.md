@@ -179,4 +179,10 @@ The reason we create a database is so we can use it for other features such as s
 
 [View image in tab.](/images/step-17.png)
 
-Step 18:
+## Step 18:
+
+These are your security rules. We will select **Start in locked mode** because we will not be using the Realtime Database as of this tutorial. This can be easily changed when you decide to use it.
+
+![Step 18](/images/step-18.png)
+
+[View image in tab.](/images/step-18.png)
