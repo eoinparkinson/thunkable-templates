@@ -7,7 +7,7 @@ layout: post
 ---
 So you've picked one of our beautiful templates. Now you're ready to make it work!
 
-If you know how to set up Firebase with Thunkable, skip to **Part 2**.
+If you know how to set up Firebase with Thunkable, skip to **[Part 2](/posts/authentication-part-2)**.
 
 # Part 1 - Setup
 
@@ -33,7 +33,7 @@ Make sure the loading screen is at the top of the component list, which is locat
 
 ## Setting Up Firebase
 
-###### If you already know how to set up and link your Firebase project, skip to Part 2.
+###### If you already know how to set up and link your Firebase project, skip to [Part 2](/posts/authentication-part-2).
 
 Okay now we're going to start getting into it. Don't worry, it's not going to be difficult. There will be no fancy words or skipping steps. We will cover every bit of this. That way if you know a step you can skip it, and if you don't understand it, you soon will!
 
@@ -217,4 +217,4 @@ On the right hand side of your screen the properties tab will have changed to ap
 
 Well done on completing this tutorial. It can get tough following a guide, so fair play for sticking out 21 steps of Firebase! 
 
-When you're ready to start adding the blocks to your template, you can check out **Part 2**.
+When you're ready to start adding the blocks to your template, you can check out **[Part 2](/posts/authentication-part-2)**.
