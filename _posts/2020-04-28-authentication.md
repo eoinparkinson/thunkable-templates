@@ -82,3 +82,15 @@ Set your region according to your location. Tick the boxes and click **Continue*
 ![Step 7](/images/step-7.png)
 
 [Open image in tab.](/images/step-7.png)
+
+## Step 8:
+
+All set! Well kind of. You've successfully created your own Firebase project. Pretty cool huh? Go ahead and click **Continue** and proceed to the next step.
+
+![Step 8](/images/step-8.png)
+
+[Open image in tab.](/images/step-8.png)
+
+## Step 9:
+
+Now things start to get interesting. It may seem over the top to have 8 steps just to get to this screen, but once you've done it, next time you can skip past this section! We promised we'd cover everything here.
