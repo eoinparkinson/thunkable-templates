@@ -94,3 +94,11 @@ All set! Well kind of. You've successfully created your own Firebase project. Pr
 ## Step 9:
 
 Now things start to get interesting. It may seem over the top to have 8 steps just to get to this screen, but once you've done it, next time you can skip past this section! We promised we'd cover everything here.
+
+On the left of your screen now you will see a navigation menu. If you don't see it click the ☰ at the top left of the screen. We want to select **Authentication**.
+
+![Step 9](/images/step-9.png)
+
+[View image in tab.](/images/step-9.png)
+
+## Step 10:
