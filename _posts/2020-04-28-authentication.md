@@ -183,6 +183,40 @@ The reason we create a database is so we can use it for other features such as s
 
 These are your security rules. We will select **Start in locked mode** because we will not be using the Realtime Database as of this tutorial. This can be easily changed when you decide to use it.
 
+Click **Enable**.
+
 ![Step 18](/images/step-18.png)
 
 [View image in tab.](/images/step-18.png)
+
+## Step 19:
+
+Now we can view our **Database URL**. Make a copy of this. This is the last step on the Firebase Console for now.
+
+![Step 19](/images/step-19.png)
+
+[View image in tab.](/images/step-19.png)
+
+## Step 20:
+
+**Back to Thunkable!** Go back to your project on [x.thunkable.com](https://x.thunkable.com). **Click on your project name**, which should appear on the top left of the design view. 
+
+![Step 20](/images/step-20.png)
+
+[View image in tab.](/images/step-20.png)
+
+## Step 21:
+
+On the right hand side of your screen the properties tab will have changed to app properties. Scroll down until you find **Firebase Settings**. Enter your **Web API** key that we got from step 15, and your **Database URL** from step 19 in their appropriate places, as shown below.
+
+![Step 21](/images/step-21.png)
+
+[View image in tab.](/images/step-21.png)
+
+
+
+# And that's it!
+
+Well done on completing this tutorial. It can get tough following a guide, so fair play for sticking out 21 steps of Firebase! 
+
+When you're ready to start adding the blocks to your template, you can check out **Part 2**.
