@@ -34,6 +34,11 @@ sections:
 
 
       ###### Like the app mock-ups seen here? [Get them here!](https://app-mockup.com/)
+
+
+
+
+      <a style="<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">" class="btn btn-primary" role="button" href="/portfolio">Get Started</a>
   - view_all_text: View All
     num_projects_displayed: 6
     section_id: latest-projects
