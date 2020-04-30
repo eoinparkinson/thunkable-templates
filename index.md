@@ -30,7 +30,7 @@ sections:
       <div style="display: flex; justify-content: center;">
 
 
-      <a href="https://app-mockup.com" style="background:linear-gradient(to bottom, #0c8aea%, #0c8aea%); background-color:#0c8aea; border-radius:2px; border:1px solid #0c8aea; display:inline-block; cursor:pointer; color:#ffffff; font-family:Trebuchet MS; font-size:23px; font-weight:bold; padding:1px 1px; text-decoration:none; width: 250px; text-align: center;
+      <a href="https://app-mockup.com" style="background:linear-gradient(to bottom, #0c8aea%, #0c8aea%); background-color:#ffffff; border-radius:2px; border:1px solid #0c8aea; display:inline-block; cursor:pointer; color:#0c8aea; font-family:Trebuchet MS; font-size:23px; font-weight:bold; padding:1px 1px; text-decoration:none; width: 250px; text-align: center;
 
 
       ">Generate App Mockups</a>
