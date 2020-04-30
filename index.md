@@ -10,6 +10,10 @@ sections:
       how to customise them, to suit your theme. 
 
 
+
+
+
+
       <br>
 
 
@@ -30,12 +34,10 @@ sections:
       ">View Templates</a>
 
 
-      </div>
 
 
 
 
-      <div style="display: flex; justify-content: center;">
 
 
       <a href="https://app-mockup.com" style="background:linear-gradient(to bottom, #eb46345%, #eb4634100%); background-color:#eb4634; border-radius:2px; border:1px solid #eb4634; display:inline-block; cursor:pointer; color:#ffffff; font-family:Trebuchet MS; font-size:23px; font-weight:bold; padding:1px 50px; text-decoration:none; width: auto; text-align: center; 
