@@ -10,7 +10,7 @@ sections:
       how to customise them, to suit your theme. 
 
 
-      ![Image looking down onto paint brushes and paper.]()
+      <br>
 
 
       <div style="display: flex; justify-content: center;">
