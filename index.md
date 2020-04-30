@@ -27,7 +27,7 @@ sections:
       background-color:#0c8aea;
 
 
-      ">VIEW TEMPLATES</a>
+      ">View Templates</a>
 
 
       </div>
