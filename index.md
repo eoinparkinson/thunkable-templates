@@ -19,6 +19,33 @@ sections:
       ###### Like the app mock-ups seen here? [Get them here!](https://app-mockup.com/)
 
 
+      <a href="#" class="myButton">View Templates</a>
+
+
+      .myButton { 	background-color:#2087f5;
+      	border-radius:28px;
+      	border:1px solid #1978ab;
+      	display:inline-block;
+      	cursor:pointer;
+      	color:#ffffff;
+      	font-family:Trebuchet MS;
+      	font-size:17px;
+      	font-weight:bold;
+      	padding:11px 56px;
+      	text-decoration:none;
+      	text-shadow:0px 1px 0px #283766;
+      }
+
+      .myButton:hover {
+      	background-color:#3232d9;
+      }
+
+      .myButton:active {
+      	position:relative;
+      	top:1px;
+      }
+
+
       ![]()
   - view_all_text: View All
     num_projects_displayed: 6
