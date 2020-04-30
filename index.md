@@ -13,12 +13,6 @@ sections:
       ![Image looking down onto paint brushes and paper.](/images/thunkable-templates-header.png)
 
 
-      > Ready to get started? [Jump In!](/portfolio)
-
-
-      ###### Like the app mock-ups seen here? [Get them here!](https://app-mockup.com/)
-
-
       <div style="flex-wrap:wrap; align:center; width:100%; ">
 
 
@@ -26,6 +20,9 @@ sections:
 
 
       </div>
+
+
+      ###### Like the app mock-ups seen here? [Get them here!](https://app-mockup.com/)
   - view_all_text: View All
     num_projects_displayed: 6
     section_id: latest-projects
