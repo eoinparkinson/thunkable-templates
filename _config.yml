@@ -1,7 +1,7 @@
 title: Thunkable X Templates
 baseurl: /
 permalink: /:title/
-color_scheme: light
+color_scheme: dark
 accent_color: blue
 header:
   title: Thunkable X Templates
