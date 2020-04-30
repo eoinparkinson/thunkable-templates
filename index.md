@@ -10,7 +10,7 @@ sections:
       how to customise them, to suit your theme. 
 
 
-      ![Image looking down onto paint brushes and paper.](/images/thunkable-templates-header.png)
+      ![Image looking down onto paint brushes and paper.]()
 
 
       <div style="display: flex; justify-content: center;">
