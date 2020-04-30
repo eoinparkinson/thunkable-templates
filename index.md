@@ -16,15 +16,7 @@ sections:
       <div style="display: flex; justify-content: center;">
 
 
-      <a href="/portfolio" style="background:linear-gradient(to bottom, #0c8aea 5%, #0c8aea 100%); background-color:#0c8aea; border-radius:2px; border:1px solid #0c8aea; display:inline-block; cursor:pointer; color:#ffffff; font-family:Trebuchet MS; font-size:23px; font-weight:bold; padding:1px 50px; margin: 5px; text-decoration:none; width: auto; text-align: center; 
-
-
-      :hover { 	
-
-
-      background:linear-gradient(to bottom, #0c8aea 5%, #0c8aea 100%);
-
-      background-color:#0c8aea;
+      <a href="/portfolio" style="background:linear-gradient(to bottom, #0c8aea 5%, #0c8aea 100%); background-color:#0c8aea; border-radius:2px; border:1px solid #0c8aea; display:inline-block; cursor:pointer; color:#ffffff; font-family:Trebuchet MS; font-size:23px; font-weight:bold; padding:1px 1px; margin: 5px; text-decoration:none; width: auto; text-align: center; width:100;
 
 
       ">View Templates</a>
@@ -38,15 +30,7 @@ sections:
       <div style="display: flex; justify-content: center;">
 
 
-      <a href="https://app-mockup.com" style="background:linear-gradient(to bottom, #0c8aea%, #0c8aea%); background-color:#0c8aea; border-radius:2px; border:1px solid #0c8aea; display:inline-block; cursor:pointer; color:#ffffff; font-family:Trebuchet MS; font-size:23px; font-weight:bold; padding:1px 50px; text-decoration:none; width: auto; text-align: center; 
-
-
-      :hover { 	
-
-
-      background:linear-gradient(to bottom, #0c8aea 5%, #0c8aea 100%);
-
-      background-color:#0c8aea;
+      <a href="https://app-mockup.com" style="background:linear-gradient(to bottom, #0c8aea%, #0c8aea%); background-color:#0c8aea; border-radius:2px; border:1px solid #0c8aea; display:inline-block; cursor:pointer; color:#ffffff; font-family:Trebuchet MS; font-size:23px; font-weight:bold; padding:1px 1px; text-decoration:none; width: auto; text-align: center; width:100; 
 
 
       ">Generate App Mockups</a>
