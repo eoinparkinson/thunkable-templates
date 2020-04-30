@@ -19,7 +19,15 @@ sections:
       ###### Like the app mock-ups seen here? [Get them here!](https://app-mockup.com/)
 
 
-      <a href="/portfolio" style="background:linear-gradient(to bottom, #0c8aea 5%, #0c8aea 100%); background-color:#0c8aea; border-radius:9px; border:1px solid #0c8aea; display:inline-block; cursor:pointer; color:#ffffff; font-family:Trebuchet MS; font-size:17px; font-weight:bold; padding:13px 76px; text-decoration:none; display: flex; flex-wrap: wrap; align-content: center; width: 50%; text-align: center;">View Templates</a>
+      <div style="flex-wrap: wrap; align-content: center; width: 50%; ">
+
+
+      <a href="/portfolio" style="background:linear-gradient(to bottom, #0c8aea 5%, #0c8aea 100%); background-color:#0c8aea; border-radius:9px; border:1px solid #0c8aea; display:inline-block; cursor:pointer; color:#ffffff; font-family:Trebuchet MS; font-size:17px; font-weight:bold; padding:13px 76px; text-decoration:none; display: flex; text-align: center;">View Templates</a>
+
+
+
+
+      </div>
   - view_all_text: View All
     num_projects_displayed: 6
     section_id: latest-projects
