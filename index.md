@@ -19,10 +19,7 @@ sections:
       ###### Like the app mock-ups seen here? [Get them here!](https://app-mockup.com/)
 
 
-      <a href="/portfolio" class="myButton">View Templates</a>
-
-
-      .myButton { 	background-color:#2087f5;
+      <a href="/portfolio" style="background-color:#2087f5;
       	border-radius:28px;
       	border:1px solid #1978ab;
       	display:inline-block;
@@ -33,20 +30,7 @@ sections:
       	font-weight:bold;
       	padding:11px 56px;
       	text-decoration:none;
-      	text-shadow:0px 1px 0px #283766;
-      }
-
-      .myButton:hover {
-      	background-color:#3232d9;
-      }
-
-      .myButton:active {
-      	position:relative;
-      	top:1px;
-      }
-
-
-      ![]()
+      	text-shadow:0px 1px 0px #283766;">View Templates</a>
   - view_all_text: View All
     num_projects_displayed: 6
     section_id: latest-projects
