@@ -19,7 +19,7 @@ sections:
       ###### Like the app mock-ups seen here? [Get them here!](https://app-mockup.com/)
 
 
-      <a href="#" class="myButton">View Templates</a>
+      <a href="/portfolio" class="myButton">View Templates</a>
 
 
       .myButton { 	background-color:#2087f5;
