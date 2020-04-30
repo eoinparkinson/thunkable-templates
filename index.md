@@ -16,7 +16,7 @@ sections:
       <div style="display: flex; justify-content: center;">
 
 
-      <a href="/portfolio" style="background:linear-gradient(to bottom, #0c8aea 5%, #0c8aea 100%); background-color:#0c8aea; border-radius:0px; border:1px solid #0c8aea; display:inline-block; cursor:pointer; color:#ffffff; font-family:Trebuchet MS; font-size:19px; font-weight:bold; padding:13px 76px; text-decoration:none; width: 50%; text-align: center; 
+      <a href="/portfolio" style="background:linear-gradient(to bottom, #0c8aea 5%, #0c8aea 100%); background-color:#0c8aea; border-radius:0px; border:1px solid #0c8aea; display:inline-block; cursor:pointer; color:#ffffff; font-family:Trebuchet MS; font-size:19px; font-weight:bold; padding:13px 76px; text-decoration:none; width: 35%; text-align: center; 
 
 
       :hover { 	
