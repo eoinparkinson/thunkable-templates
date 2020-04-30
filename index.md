@@ -13,7 +13,7 @@ sections:
       ![Image looking down onto paint brushes and paper.](/images/thunkable-templates-header.png)
 
 
-      <div style="flex-wrap:wrap; align:center; width:100%; ">
+      <div style="margin: 0;   position: absolute; top: 50%; -ms-transform: translateY(-50%); transform: translateY(-50%);">
 
 
       <a href="/portfolio" style="background:linear-gradient(to bottom, #0c8aea 5%, #0c8aea 100%); background-color:#0c8aea; border-radius:0px; border:1px solid #0c8aea; display:inline-block; cursor:pointer; color:#ffffff; font-family:Trebuchet MS; font-size:19px; font-weight:bold; padding:13px 76px; text-decoration:none; width: 50%; text-align: center;">View Templates</a>
