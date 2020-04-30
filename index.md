@@ -30,7 +30,7 @@ sections:
       	font-weight:bold;
       	padding:11px 56px;
       	text-decoration:none;
-      	text-shadow:0px 1px 0px #283766; align:center;">View Templates</a>
+      	text-shadow:0px 1px 0px #283766; position:relative; top:1px;">View Templates</a>
   - view_all_text: View All
     num_projects_displayed: 6
     section_id: latest-projects
