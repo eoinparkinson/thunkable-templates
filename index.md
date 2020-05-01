@@ -33,7 +33,7 @@ sections:
     section_id: latest-projects
     view_all_url: portfolio/index.html
     subtitle: ""
-    title: Browse Templates
+    title: Newest Templates
     type: portfolioblock
     layout_style: mosaic
     component: portfolio_block.html
