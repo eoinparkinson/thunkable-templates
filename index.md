@@ -10,7 +10,7 @@ sections:
       how to customise them, to suit your theme. 
 
 
-      <div style="width:100%; align-content:center;">
+      <div style="display: flex; justify-content: center;">
 
 
       <p class="block-cta">
