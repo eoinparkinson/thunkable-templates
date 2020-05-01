@@ -35,6 +35,15 @@ sections:
 
 
       </div>
+
+
+
+
+      <p class="block-cta">
+                
+                <a href="/blog/index.html" class="button">View Blog</a>
+                
+              </p>
   - view_all_text: View All
     num_projects_displayed: 6
     section_id: latest-projects
