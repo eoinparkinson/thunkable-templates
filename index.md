@@ -16,7 +16,7 @@ sections:
       <div style="display: flex; justify-content: center;">
 
 
-      <a href="/portfolio" style="background:linear-gradient(to bottom, #0c8aea 5%, #0c8aea 100%); background-color:#0c8aea; border-radius:35px; border:2px solid #0c8aea; display:inline-block; cursor:pointer; color:#ffffff; font-family:Trebuchet MS; font-size:23px; font-weight:bold; padding:1px 25px; margin: 5px; text-decoration:none; width: 250px; text-align: center;
+      <a href="/portfolio" style="background:linear-gradient(to bottom, #0c8aea 5%, #0c8aea 100%); background-color:#0c8aea; border-radius:0px; border:2px solid #0c8aea; display:inline-block; cursor:pointer; color:#ffffff; font-family:Trebuchet MS; font-size:23px; font-weight:bold; padding:1px 25px; margin: 5px; text-decoration:none; width: 250px; text-align: center;
 
 
       ">View Templates</a>
@@ -25,12 +25,10 @@ sections:
       </div>
 
 
-
-
       <div style="display: flex; justify-content: center;">
 
 
-      <a href="https://app-mockup.com" style="background:linear-gradient(to bottom, #0c8aea%, #0c8aea%); background-color:#ffffff; border-radius:35px; border:2px solid #0c8aea; display:inline-block; cursor:pointer; color:#0c8aea; font-family:Trebuchet MS; font-size:23px; font-weight:bold; padding:1px 25px; text-decoration:none; width: 250px; text-align: center;
+      <a href="https://app-mockup.com" style="background:linear-gradient(to bottom, #0c8aea%, #0c8aea%); background-color:#ffffff; border-radius:0px; border:2px solid #0c8aea; display:inline-block; cursor:pointer; color:#0c8aea; font-family:Trebuchet MS; font-size:23px; font-weight:bold; padding:1px 25px; text-decoration:none; width: 250px; text-align: center;
 
 
       ">Generate App Mockups</a>
