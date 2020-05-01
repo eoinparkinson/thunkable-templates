@@ -10,11 +10,17 @@ sections:
       how to customise them, to suit your theme. 
 
 
+      <div style="width:100%; align-content:center;">
+
+
       <p class="block-cta">
-                
-                <a href="/portfolio" class="button">View Templates</a>
-                
-              </p>
+
+      <a href="/portfolio" class="button">View Templates</a>
+
+      </p>
+
+
+      </div>
   - view_all_text: View All
     num_projects_displayed: 6
     section_id: latest-projects
