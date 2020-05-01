@@ -10,7 +10,7 @@ sections:
       how to customise them, to suit your theme. 
 
 
-      <div style="display: flex; justify-content: space-between;">
+      <div style="display: flex; justify-content: space-around;">
 
 
       <p class="block-cta">
