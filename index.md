@@ -20,6 +20,13 @@ sections:
       </p>
 
 
+      <p class="block-cta">
+
+      <a href="/blog" class="button">Guides</a>
+
+      </p>
+
+
       </div>
   - view_all_text: View All
     num_projects_displayed: 6
