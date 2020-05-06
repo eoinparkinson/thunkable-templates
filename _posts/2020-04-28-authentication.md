@@ -1,8 +1,8 @@
 ---
-title: Firebase Authentication - Part 1
-subtitle: Setting up Firebase Authentication
+title: Firebase Authentication
+subtitle: A Beginners Guide To Setting up Firebase Authentication
 date: 2020-04-28T21:47:23.557Z
-thumb_img_path: /images/firebase-auth-part-1-banner.png
+thumb_img_path: /images/firebase-auth-absolute-beginners-set-up-guide.png
 excerpt: Part 1 - Setting Up Firebase Authentication
 layout: post
 ---
