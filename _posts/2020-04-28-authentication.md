@@ -6,6 +6,8 @@ thumb_img_path: /images/firebase-auth-absolute-beginners-set-up-guide.png
 excerpt: A Beginners Guide To Firebase Authentication With Thunkable X
 layout: post
 ---
+![](/images/firebase-auth-absolute-beginners-set-up-guide.png)
+
 So you've picked one of our beautiful templates. Now you're ready to make it work!
 
 # Firebase Authentication - For Absolute Beginners
@@ -205,4 +207,4 @@ On the right hand side of your screen the properties tab will have changed to ap
 
 Well done on completing this tutorial. It can get tough following a guide, so fair play for sticking out 21 steps of Firebase! 
 
-When you're ready to start adding the blocks to your template, you can check out **[Part 2](/posts/authentication-part-2)**.
+If you encounter issues be sure
