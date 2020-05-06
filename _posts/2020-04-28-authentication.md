@@ -207,4 +207,6 @@ On the right hand side of your screen the properties tab will have changed to ap
 
 Well done on completing this tutorial. It can get tough following a guide, so fair play for sticking out 21 steps of Firebase! 
 
-If you encounter issues be sure
+If you are having any trouble with this guide, be sure to hop onto the [Thunkable Community](https://community.thunkable.com) and someone will help you out.
+
+Happy Thunking!
