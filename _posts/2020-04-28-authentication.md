@@ -3,38 +3,25 @@ title: Firebase Authentication
 subtitle: A Beginners Guide To Setting up Firebase Authentication
 date: 2020-04-28T21:47:23.557Z
 thumb_img_path: /images/firebase-auth-absolute-beginners-set-up-guide.png
-excerpt: Part 1 - Setting Up Firebase Authentication
+excerpt: A Beginners Guide To Firebase Authentication With Thunkable X
 layout: post
 ---
 So you've picked one of our beautiful templates. Now you're ready to make it work!
 
-If you know how to set up Firebase with Thunkable, skip to **[Part 2](/posts/authentication-part-2)**.
-
-# Part 1 - Setup
+# Firebase Authentication - For Absolute Beginners
 
 ## Step 1:
 
-Assuming you've chosen [one of our templates](/portfolio), open up the template. This will only take a minute. This is good practice when using our templates so you know what you're dealing with.
+This step is probably one of the most important steps, even though it may not seem it after reading it. 
 
-Here you're going to see 5 screens at the top of the designer tab:
+Please read the following:
 
-* Loading
-* Sign Up
-* Sign In
-* Forgot Password
-* Home
+* If you are trying to set up Firebase Authentication for [one of our templates](/portfolio), make sure you have properly copied the project to your Thunkable X account and make sure it opens correctly.
+* Make sure you have enough time to finish this guide. This guide is for absolute beginners, and covers exactly how to set up your Firebase Authentication, even if the word Firebase is foreign to you. This means there is a lot of detail, and may take some time to get through. It's best to have 10-15 minutes for this guide if you're just starting out.
 
-*Don't worry if there are extra screens, just make sure the five screens above are there and in the order shown below.*
 
-![Step 1](/images/step-1.png)
 
-[Open image in tab.](/images/step-1.png)
-
-Make sure the loading screen is at the top of the component list, which is located on the left of your design view. This is shown in the image above with the blue arrow. **Once we can confirm all our screens are there we will begin the next step.**
-
-## Setting Up Firebase
-
-###### If you already know how to set up and link your Firebase project, skip to [Part 2](/posts/authentication-part-2).
+#### Setting Up Firebase.
 
 Okay now we're going to start getting into it. Don't worry, it's not going to be difficult. There will be no fancy words or skipping steps. We will cover every bit of this. That way if you know a step you can skip it, and if you don't understand it, you soon will!
 
