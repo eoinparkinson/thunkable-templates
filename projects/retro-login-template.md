@@ -42,8 +42,38 @@ The stripes are rotated at:
 | Formula | 6Rad × 180/π = 343.775Deg
 ```
 
-You can change this up using *rotate* in the advanced properties tab.
+You can change this up using *Transform rotate* in the advanced properties tab.
+
+![](/images/stripes-design-view-adding-the-6-rad.png)
 
 ![](/images/stripe-rotate-properties.png)
+
+Changing the colour is a piece of cake. Click on the stripe you want to alter and chose a colour from the colour picker.
+
+![](/images/change-stripe-colour-preview.png)
+
+All the stripes are named accordingly for ease of customisation:
+
+* Stripe 1
+* Stripe 2
+* Stripe 3
+* Stripe 4
+
+**And**
+
+* Stripe-1
+* Stripe-2
+* Stripe-3
+* Stripe-4
+
+
+
+
+
+
+
+
+
+
 
 ### If you encounter any problems or issues drop a comment below.
