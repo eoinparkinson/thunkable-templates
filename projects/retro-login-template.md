@@ -48,3 +48,7 @@ The stripes are rotated at:
 You can change this up using *rotate* in the advanced properties tab.
 
 ![](/images/stripe-rotate-properties.png)
+
+
+
+### If you encounter any problems or issues, please don't hesitate to drop a comment below and someone will assist you.
