@@ -9,11 +9,24 @@ layout: project
 
 Meet **Retro**, the fully customisable login template. 
 
-![4 Screen Preview - Retro Login Template](/images/4-screen-app-preview-retro-1.png)
+# Template Features
 
 This template is ready to go out of the box, just input your Firebase credentials, which if you aren't familiar with doing, you can check out our [Absolute Beginners Guide to Firebase Authentication with Thunkable X](/posts/authentication/).
 
 What is unique about this template is that everything you see (excluding the "your logo here" image) was created entirely inside of Thunkable. This means you can change just about anything in this template. 
+
+The app contains [alerts ](docs.thunkable.com/alert)that appear for:
+
+* Incorrect username or password
+* User already exists
+* Any other error (may contain a long error code)
+* Confirming that a password reset link has been sent
+
+
+
+![4 Screen Preview - Retro Login Template](/images/4-screen-app-preview-retro-1.png)
+
+
 
 <div style="display: flex; justify-content: center;">
 
@@ -27,7 +40,7 @@ Make sure to click **remix** when the project opens up.
 
 ![Click to Remix Example](/images/click-to-remix-example.png)
 
-# Theme Customisation Docs
+# Template Customisation Docs
 
 ### Changing Stripes Properties:
 
