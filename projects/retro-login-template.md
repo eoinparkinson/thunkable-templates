@@ -40,9 +40,9 @@ Make sure to click **remix** when the project opens up.
 
 ![Click to Remix Example](/images/click-to-remix-example.png)
 
-# Template Customisation Docs
+# Template Docs
 
-### Changing Stripes Properties:
+### Changing Stripe Properties:
 
 These stripes are visible on the **Login** and **Sign Up** screens.
 
