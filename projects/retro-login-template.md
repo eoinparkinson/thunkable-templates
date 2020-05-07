@@ -38,12 +38,10 @@ The stripes are rotated at:
 * \-6 radians in **Sign Up** screen
 * 6 radians in **Login** screen
 
-<!--StartFragment-->
+
 
 | Formula | 6**Rad**× 180/π = 343.775**Deg** |
 | ------- | -------------------------------- |
-
-<!--EndFragment-->
 
 You can change this up using *rotate* in the advanced properties tab.
 
