@@ -7,7 +7,11 @@ layout: project
 ---
 ![Retro- Login Template Header Image](/images/retro-login-template-frontal-image.png)
 
-Meet **Retro**, the fully customizable login template. This template is ready to go out of the box, just input your Firebase credentials, which if you aren't familiar with doing, you can check out our [Absolute Beginners Guide to Firebase Authentication with Thunkable X](/posts/authentication/).
+Meet **Retro**, the fully customisable login template. 
+
+![4 Screen Preview - Retro Login Template](/images/4-screen-app-preview-retro-1.png)
+
+This template is ready to go out of the box, just input your Firebase credentials, which if you aren't familiar with doing, you can check out our [Absolute Beginners Guide to Firebase Authentication with Thunkable X](/posts/authentication/).
 
 What is unique about this template is that everything you see (excluding the "your logo here" image) was created entirely inside of Thunkable. This means you can change just about anything in this template. 
 
@@ -66,11 +70,21 @@ All the stripes are named accordingly for ease of customisation:
 * Stripe-3
 * Stripe-4
 
+### Changing The Loading Animation:
+
+The loading animation can be found [here](https://lottiefiles.com/21462-loader-jumps). 
+
+You can use [LottieFiles](https://lottiefiles.com)' easy to use colour editor to change the colours to work with your own theme.
+
+![](/images/lottiefiles-edit-layers-preview.png)
 
 
 
+### Change The Home Screen:
 
+![](/images/testing-home-screen-preview.png)
 
+This screen is useful for testing purposes, as it has a temporary sign out button so you can perform tests with your brand new template. You can rename the home screen and delete all data inside of it, but **do not delete the home screen**. This will cause errors that can be frustrating if you are not experienced with Thunkable.
 
 
 
