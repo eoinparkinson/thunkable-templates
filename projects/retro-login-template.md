@@ -19,4 +19,8 @@ What is unique about this template is that everything you see (excluding the "yo
 
 </div>
 
+Make sure to click **remix** when the project opens up.
+
+![Click to Remix Example](/images/click-to-remix-example.png)
+
 # Theme Customisation Docs
