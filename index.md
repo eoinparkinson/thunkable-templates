@@ -6,8 +6,9 @@ sections:
     section_id: hero
     component: hero_block.html
     content: >-
-      Clean & modern templates for Thunkable X with step by step instructions on
-      how to customise them, to suit your theme. 
+      When building apps, design is a make or break point. That's why we created
+      these clean & modern templates for Thunkable X with step by step
+      instructions on how to customise them, to suit your theme. 
 
 
       <div style="display: flex; justify-content: space-around;">
