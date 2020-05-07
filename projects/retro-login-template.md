@@ -25,4 +25,26 @@ Make sure to click **remix** when the project opens up.
 
 # Theme Customisation Docs
 
-hello
+
+
+### Changing Stripes Properties:
+
+These stripes are visible on the **Login** and **Sign Up** screens.
+
+![](/images/stripes-design-view-preview.png)
+
+The stripes are rotated at:
+
+* \-6 radians in **Sign Up** screen
+* 6 radians in **Login** screen
+
+<!--StartFragment-->
+
+| Formula | 6**Rad**× 180/π = 343.775**Deg** |
+| ------- | -------------------------------- |
+
+<!--EndFragment-->
+
+You can change this up using *rotate* in the advanced properties tab.
+
+![](/images/stripe-rotate-properties.png)
