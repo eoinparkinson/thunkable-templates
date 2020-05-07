@@ -22,6 +22,8 @@ The app contains [alerts ](docs.thunkable.com/alert)that appear for:
 * Any other error (may contain a long error code)
 * Confirming that a password reset link has been sent
 
+The users credentials are stored in the app, so they do not have to enter a password every time they sign in. An app variable called **authUserID** will get the users Firebase Authentication ID and store it as an app variable. This makes it easy for getting extra pieces data such as a profile picture or a custom list, specific to that user.
+
 
 
 ![4 Screen Preview - Retro Login Template](/images/4-screen-app-preview-retro-1.png)
