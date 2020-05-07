@@ -36,7 +36,11 @@ The stripes are rotated at:
 * \-6 radians in **Sign Up** screen
 * 6 radians in **Login** screen
 
-`Formula  6`**`Rad`**
+``
+
+```
+| Formula | 6Rad× 180/π = 343.775Deg
+```
 
 You can change this up using *rotate* in the advanced properties tab.
 
