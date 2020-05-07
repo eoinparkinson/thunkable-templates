@@ -39,7 +39,7 @@ The stripes are rotated at:
 ``
 
 ```
-| Formula | 6Rad× 180/π = 343.775Deg
+| Formula | 6Rad × 180/π = 343.775Deg
 ```
 
 You can change this up using *rotate* in the advanced properties tab.
