@@ -7,7 +7,7 @@ layout: project
 ---
 ![Retro- Login Template Header Image](/images/retro-login-template-frontal-image.png)
 
-Meet **Retro**, the fully customizable login template. This template is ready to go out of the box, just input your Firebase credentials, which if you aren't familiar with doing, you can check out our [Absolute Beginners Guide to Firebase Authentication with Thunkable X.](/post/authentication)
+Meet **Retro**, the fully customizable login template. This template is ready to go out of the box, just input your Firebase credentials, which if you aren't familiar with doing, you can check out our [Absolute Beginners Guide to Firebase Authentication with Thunkable X](/posts/authentication/).
 
 What is unique about this template is that everything you see (excluding the "your logo here" image) was created entirely inside of Thunkable. This means you can change just about anything in this template. 
 
