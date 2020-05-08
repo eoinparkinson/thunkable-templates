@@ -39,7 +39,7 @@ Make sure to click **remix** when the project opens up.
 
 ![Click to Remix Example](/images/click-to-remix-example.png)
 
-# Template Docs
+# Template Documentation
 
 ### Changing Stripe Properties:
 
