@@ -1,7 +1,7 @@
 ---
 title: About
 subtitle: ""
-img_path: /images/6.jpg
+img_path: ""
 menus:
   main:
     title: About
@@ -14,8 +14,12 @@ All templates contain detailed, human friendly instructions, that guide you on h
 
 
 
-Whether you're an experienced Thunker or just starting out, we hope you find some information, inspiration or solutions here. 
+**Templates do not require any attribution.** 
 
 
 
-If you enjoy using our templates, maybe share our website on Twitter, or direct someone who could make use of this either through your own experience our through this website.
+If you enjoy this service, consider tweeting about it or spreading the word.
+
+
+
+Happy Thunking!
