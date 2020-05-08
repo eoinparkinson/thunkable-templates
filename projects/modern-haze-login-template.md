@@ -26,7 +26,7 @@ The users credentials are stored in the app, so they do not have to enter a pass
 <div style="display: flex; justify-content: center;">
 
 <p class="block-cta">
-<a href="https://x.thunkable.com/projects/5e98c05153845a48f51f375f/d6bec0a9-bb7e-4447-8cf0-bffd713d9c86/designer" class="button">Remix Template</a>
+<a href="https://x.thunkable.com/projects/5e98c05153845a48f51f375f/d6bec0a9-bb7e-4447-8cf0-bffd713d9c86/designer" target="_blank" class="button">Remix Template</a>
 </p>
 
 </div>
