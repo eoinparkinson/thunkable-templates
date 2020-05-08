@@ -4,7 +4,7 @@ permalink: /:title/
 color_scheme: light
 accent_color: blue
 header:
-  title: Thunkable X Templates
+  title: Thunkable ✕ Templates
   has_nav: true
   logo_img: ""
 sass:
