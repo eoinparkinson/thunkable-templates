@@ -34,7 +34,7 @@ sections:
     section_id: latest-projects
     view_all_url: portfolio/index.html
     subtitle: ""
-    title: Newest Templates
+    title: Latest Templates
     type: portfolioblock
     layout_style: tiles
     component: portfolio_block.html
