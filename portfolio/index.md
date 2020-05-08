@@ -1,6 +1,6 @@
 ---
 title: Templates
-subtitle: ""
+subtitle: There are more templates on the way. We promise!
 layout_style: tiles
 menus:
   main:
