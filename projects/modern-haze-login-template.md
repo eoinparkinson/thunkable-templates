@@ -46,6 +46,8 @@ The app has two gradient files:
 
 If you want more gradients, we have compiled 10 unique gradients for this app.
 
+`Download Size - 12.1 MB`
+
 <div style="display: flex; justify-content: center;">
 
 <p class="block-cta">
