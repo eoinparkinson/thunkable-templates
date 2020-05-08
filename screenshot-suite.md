@@ -49,7 +49,7 @@ You will receive the raw screenshot files, as well a range of mock-ups as seen a
         <textarea name="message" id="contact-message" class="form-textarea" rows="5" placeholder="Enter your message"></textarea>
         <span class="input-focus" aria-hidden="true"></span>
       </p>
-      <input type="hidden" name="form-name" value="screenshot-suiteForm">
+      <input type="hidden" name="form-name" value="contactForm">
       <p class="form-row form-submit">
         <button type="submit" class="button">Send Message</button>
       </p>
