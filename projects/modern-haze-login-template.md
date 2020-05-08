@@ -10,7 +10,9 @@ layout: project
 
 # Template Features
 
-The **Modern Haze** template includes **10 gradients** which are designed specifically for this app. You can download them here.
+This template is ready to go out of the box, just input your Firebase credentials, which if you aren’t familiar with doing, you can check out our [Absolute Beginners Guide to Firebase Authentication with Thunkable X](https://thunkable-templates.netlify.app/posts/authentication/).
+
+The **Modern Haze** template includes **10 gradients** which are designed specifically for this app. You can find a download link for these files in the template documentation below.
 
 The app contains [alerts](https://docs.thunkable.com/alert) that appear for:
 
