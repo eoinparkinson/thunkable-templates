@@ -1,7 +1,7 @@
 ---
 title: Retro - Login Template
 subtitle: Clean 100% Customisable Login Template
-date: 2020-05-01T20:35:10.204Z
+date: 2020-05-08T20:35:10.204Z
 thumb_img_path: /images/retro-login-template-frontal-image.png
 layout: project
 ---
