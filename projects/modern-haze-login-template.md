@@ -6,3 +6,8 @@ thumb_img_path: /images/modern-haze-login-template-header-image.png
 content_img_path: ""
 layout: project
 ---
+![](/images/modern-haze-login-template-header-image.png)
+
+\# Features:
+
+The **Modern Haze** template includes **15 gradient** download links, designed specifically for this app. You can download them here.
