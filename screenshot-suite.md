@@ -22,7 +22,7 @@ Drop us a line
   </div>
   <!-- .block-header -->
   <div class="block-content">
-    <form name="contactForm" method="POST" id="screenshot-suite-form" class="contact-form">
+    <form name="screenshot-suiteForm" method="POST" id="screenshot-suite-form" class="contact-form">
       <p class="screen-reader-text">
         <label>Don't fill this out if you're human: <input name="bot-field"></label>
       </p>
@@ -49,4 +49,3 @@ Drop us a line
     <!-- .contact-form -->
   </div>
   <!-- .inner -->
-</section>
