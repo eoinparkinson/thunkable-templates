@@ -2,12 +2,12 @@
 title: Home
 sections:
   - type: heroblock
-    title: Clean Templates For Thunkable X
+    title: Clean Templates For Thunkable ✕
     section_id: hero
     component: hero_block.html
     content: >-
       When building apps, design is a make or break point. That's why we created
-      these clean & modern templates for Thunkable X with step by step
+      these clean & modern templates for Thunkable ✕ with step by step
       instructions on how to customise them, to suit your theme. 
 
 
