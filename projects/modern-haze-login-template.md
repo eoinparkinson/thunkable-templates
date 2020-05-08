@@ -49,7 +49,7 @@ If you want more gradients, we have compiled 10 unique gradients for this app.
 <div style="display: flex; justify-content: center;">
 
 <p class="block-cta">
-<a href="/files/Gradients" target="_blank" class="button" download>Download Gradients</a>
+<a href="/files/Gradients/Gradients.zip" target="_blank" class="button" download>Download Gradients</a>
 </p>
 
 </div>
