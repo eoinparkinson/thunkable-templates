@@ -1,7 +1,6 @@
 ---
 title: Templates
-subtitle: Here is what we've got. Scroll, swipe or do what you do to browse
-  these templates!
+subtitle: ""
 layout_style: tiles
 menus:
   main:
