@@ -16,7 +16,7 @@ This template is ready to go out of the box, just input your Firebase credential
 
 What is unique about this template is that everything you see (excluding the "your logo here" image) was created entirely inside of Thunkable. This means you can change just about anything in this template. 
 
-The app contains [alerts ](docs.thunkable.com/alert)that appear for:
+The app contains [alerts](https://docs.thunkable.com/alert) that appear for:
 
 * Incorrect username or password
 * User already exists
