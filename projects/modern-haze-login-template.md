@@ -34,3 +34,5 @@ The users credentials are stored in the app, so they do not have to enter a pass
 Make sure to click **remix** when the project opens up.
 
 ![Click to Remix Example](/images/click-to-remix-example.png)
+
+# Template Documentation
