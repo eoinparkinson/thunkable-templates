@@ -25,7 +25,7 @@ You will receive the raw screenshot files, as well a range of mock-ups as seen a
   <div class="block-header">
     <h2 class="block-title line-top">Drop us a line.</h2>
     <p class="block-subtitle">
-      If you are looking for professional iOS & Android screenshots that will be accepted in the App & Play Stores, please fill out the form below with information about your app (i.e. Number of screens, specific device screenshots, etc) for a quotation.
+      If you are looking for professional iOS & Android screenshots that will be accepted in the App & Play Stores, please fill out this form with information about your app (i.e. Number of screens, specific device screenshots, etc) for a quotation.
     </p>
   </div>
   <!-- .block-header -->
