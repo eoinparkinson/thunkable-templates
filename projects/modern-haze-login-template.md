@@ -55,3 +55,38 @@ If you want more gradients, we have compiled 10 unique gradients for this app.
 </p>
 
 </div>
+
+The gradient backgrounds are found on:
+
+* Login Screen
+* Sign Up Screen
+
+And the gradient buttons are found on:
+
+* Login Screen
+* Sign Up Screen
+* Forgot Password Screen
+
+Changing the background gradient can be done by clicking on the screen name and setting the background image to your preferred gradient.
+
+![](/images/change-background-gradient-example.png)
+
+Changing the button gradient can be done by clicking on the button and setting the background image to your preferred gradient.
+
+![](/images/change-button-gradient-example.png)
+
+### Changing The Loading Animation:
+
+The loading animation can be found [here](https://lottiefiles.com/21577-loading-animation).
+
+You can use [LottieFiles](https://lottiefiles.com/)’ easy to use colour editor to change the colours to work with your own theme.
+
+![](https://thunkable-templates.netlify.app/images/lottiefiles-edit-layers-preview.png)
+
+### Change The Home Screen:
+
+![](https://thunkable-templates.netlify.app/images/testing-home-screen-preview.png)
+
+This screen is useful for testing purposes, as it has a temporary sign out button so you can perform tests with your brand new template. You can rename the home screen and delete all data inside of it, but **do not delete the home screen**. This will cause errors that can be frustrating if you are not experienced with Thunkable.
+
+### If you encounter any problems or issues drop a comment below.
