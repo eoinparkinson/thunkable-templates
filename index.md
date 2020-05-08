@@ -36,7 +36,7 @@ sections:
     subtitle: ""
     title: Newest Templates
     type: portfolioblock
-    layout_style: mosaic
+    layout_style: tiles
     component: portfolio_block.html
   - type: postsblock
     title: Posts & Guides
