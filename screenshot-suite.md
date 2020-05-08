@@ -17,7 +17,7 @@ Drop us a line
   <div class="block-header">
     <h2 class="block-title line-top">Drop us a line?</h2>
     <p class="block-subtitle">
-      If you are looking for professional iOS & Android screenshots that will be accepted in the App & Play Stores, please fill out the form below.
+      If you are looking for professional iOS & Android screenshots that will be accepted in the App & Play Stores, please fill out the form below with information about your app (i.e. Number of screens, specific device screenshots, etc) for a quotation.
     </p>
   </div>
   <!-- .block-header -->
@@ -41,7 +41,7 @@ Drop us a line
         <textarea name="message" id="contact-message" class="form-textarea" rows="5" placeholder="Enter your message"></textarea>
         <span class="input-focus" aria-hidden="true"></span>
       </p>
-      <input type="hidden" name="form-name" value="contactForm">
+      <input type="hidden" name="form-name" value="screenshot-suiteForm">
       <p class="form-row form-submit">
         <button type="submit" class="button">Send Message</button>
       </p>
