@@ -9,7 +9,13 @@ menus:
     identifier: screenshot-suite
 layout: page
 ---
-Drop us a line
+![Screenshots Layout Example Image](/images/carded-screenshots-layout.png)
+
+## Your first impression sells, make it good.
+
+
+
+Get in touch
 
 <section id="contact-form-home" class="block contact-block outer">
   <div class="inner">
