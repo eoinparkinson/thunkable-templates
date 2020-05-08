@@ -22,13 +22,9 @@ The app contains [alerts ](docs.thunkable.com/alert)that appear for:
 * Any other error (may contain a long error code)
 * Confirming that a password reset link has been sent
 
-The users credentials are stored in the app, so they do not have to enter a password every time they sign in. An app variable called **authUserID** will get the users Firebase Authentication ID and store it as an app variable. This makes it easy for getting extra pieces data such as a profile picture or a custom list, specific to that user.
-
-
+The users credentials are stored in the app, so they do not have to enter a password every time they sign in. An app variable called **authUserID** will get the users Firebase Authentication ID and store it as an app variable. This makes it easy for storing and retrieving user-specific data from an external data source, such as the users name, bio or profile picture.
 
 ![4 Screen Preview - Retro Login Template](/images/4-screen-app-preview-retro-1.png)
-
-
 
 <div style="display: flex; justify-content: center;">
 
@@ -93,16 +89,10 @@ You can use [LottieFiles](https://lottiefiles.com)' easy to use colour editor to
 
 ![](/images/lottiefiles-edit-layers-preview.png)
 
-
-
 ### Change The Home Screen:
 
 ![](/images/testing-home-screen-preview.png)
 
 This screen is useful for testing purposes, as it has a temporary sign out button so you can perform tests with your brand new template. You can rename the home screen and delete all data inside of it, but **do not delete the home screen**. This will cause errors that can be frustrating if you are not experienced with Thunkable.
-
-
-
-
 
 ### If you encounter any problems or issues drop a comment below.
