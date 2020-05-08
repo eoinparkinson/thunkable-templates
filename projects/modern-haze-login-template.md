@@ -10,7 +10,7 @@ layout: project
 
 # Template Features
 
-The **Modern Haze** template includes **15 gradients** which are designed specifically for this app. You can download them here.
+The **Modern Haze** template includes **10 gradients** which are designed specifically for this app. You can download them here.
 
 The app contains [alerts](https://docs.thunkable.com/alert) that appear for:
 
@@ -36,3 +36,20 @@ Make sure to click **remix** when the project opens up.
 ![Click to Remix Example](/images/click-to-remix-example.png)
 
 # Template Documentation
+
+### Change Gradients
+
+The app has two gradient files:
+
+* The Button
+* The Background
+
+If you want more gradients, we have compiled 10 unique gradients for this app.
+
+<div style="display: flex; justify-content: center;">
+
+<p class="block-cta">
+<a href="/files/Gradients" target="_blank" class="button" download>Download Gradients</a>
+</p>
+
+</div>
