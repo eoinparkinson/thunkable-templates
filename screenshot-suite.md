@@ -15,16 +15,16 @@ Drop us a line
   <div class="inner">
     <div class="block-inside">
       <div class="block-header">
-        <h2 class="block-title line-top">Want to get involved?</h2>
+        <h2 class="block-title line-top">Drop us a line?</h2>
         
         
         <p class="block-subtitle">
-          If you are interested in contributing to this website, please fill out the form below.
+          If you are looking for professional iOS & Android screenshots that will be accepted in the App & Play Stores, please fill out the form below.
         </p>
         
       </div><!-- .block-header -->
       <div class="block-content">
-        <form name="contactForm" method="POST" id="contact-form" class="contact-form">
+        <form name="contactForm" method="POST" id="screenshot-suite-form" class="contact-form">
   <p class="screen-reader-text">
     <label>Don't fill this out if you're human: <input name="bot-field"></label>
   </p>
