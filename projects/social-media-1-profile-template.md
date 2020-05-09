@@ -19,7 +19,7 @@ There are no blocks with this template. See below in the documentation for namin
 
 # Template Documentation
 
-### Profile Information
+### Profile Information:
 
 There are 3 components which display the users information:
 
@@ -30,6 +30,8 @@ There are 3 components which display the users information:
 
 Note that the **Bio Label** can cause an overlap/overflow when using more than 15-18 words. Make sure to implement a feature to stop the user from entering too many words.
 
-### Changing Colours
+### Changing Colours:
 
-The template uses a **Dark Blue**, along with **White** and a **Mix Of Greys**.
+The template uses a **Dark Blue**, along with **White** and a **Mix Of Greys**. 
+
+The blue bar at the top of the screen can be changed by setting background colour.
