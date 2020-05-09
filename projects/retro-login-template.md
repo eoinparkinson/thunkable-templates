@@ -6,7 +6,7 @@ thumb_img_path: /images/retro-login-template-frontal-image.png
 content_img_path: ""
 layout: project
 ---
-![Retro- Login Template Header Image](/images/4-screen-app-preview-retro-1.png)
+![Retro- Login Template Header Image](/images/retro-login-template-frontal-image.png)
 
 Meet **Retro**, the fully customisable login template. 
 
