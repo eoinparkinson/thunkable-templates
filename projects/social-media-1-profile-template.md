@@ -15,7 +15,7 @@ This template is perfect for a social media app. There are two action buttons, *
 
 There are no blocks with this template. See below in the documentation for naming scheme and changing colours.
 
-![Mockup - Portrait](/images/phone-mockup-portrait.png)
+![Mockup - Portrait]()
 
 # Template Documentation
 
