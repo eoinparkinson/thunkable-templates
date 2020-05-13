@@ -11,9 +11,7 @@ layout: project
 
 This template is perfect for a social media app. There are two action buttons, **Follow** and **Message**. Underneath these buttons is the brand new Data Viewer component. This can be used to display the users posts.
 
-*Note: We will be creating a guide on this feature once there is a delete function with the new data viewer component. Stay tuned!*
-
-There are no blocks with this template. See below in the documentation for naming scheme and changing colours.
+There are no blocks with this template, though there is a guide coming soon to create a social media feed. See below in the documentation for naming scheme and changing colours.
 
 ![Mockup - Portrait 1](/images/phone-mockup-portrait.png)
 
@@ -34,8 +32,20 @@ Note that the **Bio Label** can cause an overlap/overflow when using more than 1
 
 The template uses a **Dark Blue**, along with **White** and a **Mix Of Greys**. 
 
-The blue bar at the top of the screen can be changed by setting background colour.
+##### Navigation Bar Colour:
 
+![](/images/change-background-colour-profile-app.png)
 
+![](/images/change-background-navbar-colour-profile-app.png)
 
-build test
+##### Button Colour:
+
+Changing the **Follow Button** is as easy as changing the background colour. Don't forget to change the text colour if the text becomes difficult to see!
+
+![](/images/change-follow-button-profile-app.png)
+
+Changing the **Message Button** is slightly different to the follow button, but nonetheless easy to do. We must change the border colour, while the background colour stays white to match the white background.
+
+![](/images/change-message-button-background-colour-profile-app.png)
+
+![](/images/change-message-button-border-colour-profile-app.png)
