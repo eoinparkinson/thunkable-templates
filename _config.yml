@@ -37,3 +37,7 @@ exclude:
   - netlify.toml
   - stackbit-build.sh
   - stackbit-pull.js
+  
+strict_front_matter: true
+liquid:
+  error_mode: strict
