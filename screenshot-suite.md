@@ -4,9 +4,9 @@ subtitle: iPhone, iPad and Android screenshots, suitable for publishing to App
   Store & Google Play
 menus:
   main:
-    title: ""
-    weight: ""
-    identifier: ""
+    title: Screenshot Suite
+    weight: 5
+    identifier: screenshot-suite
 layout: page
 ---
 ![Screenshots Layout Example Image](/images/carded-screenshot-s-example-for-thunkable-templates.png)
