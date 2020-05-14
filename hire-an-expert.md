@@ -8,3 +8,12 @@ menus:
     identifier: ""
 layout: page
 ---
+Text
+
+\------------
+
+small text
+
+\------------
+
+contact form
