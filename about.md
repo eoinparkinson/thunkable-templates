@@ -6,7 +6,7 @@ menus:
   main:
     title: About
     weight: 5
-    identifier: ""
+    identifier: about
 layout: page
 ---
 > **This site is for you, to use as much as you want, however you want.**
