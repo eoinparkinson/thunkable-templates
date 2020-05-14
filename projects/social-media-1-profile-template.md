@@ -83,3 +83,7 @@ Both these labels are named accordingly:
 By clicking on either one of the labels, you can change the text colour to suit your theme.
 
 ![](/images/change-name-or-bio-label-colours-profile-template.png)
+
+
+
+## Your feedback is important. If you find something incorrect or want to suggest a change, don't hesitate to comment below.
