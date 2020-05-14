@@ -5,7 +5,7 @@ subtitle: iPhone, iPad and Android screenshots, suitable for publishing to App
 menus:
   main:
     title: Screenshot Suite
-    weight: 5
+    weight: 6
     identifier: screenshot-suite
 layout: page
 ---
