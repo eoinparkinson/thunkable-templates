@@ -49,3 +49,37 @@ Changing the **Message Button** is slightly different to the follow button, but 
 ![](/images/change-message-button-background-colour-profile-app.png)
 
 ![](/images/change-message-button-border-colour-profile-app.png)
+
+##### Content Separator Colours:
+
+These are the two grey horizontal bars that separate content. They are named:
+
+* Content Separator 1
+* Content Separator 2
+
+Changing the colours of these bars are very easy.
+
+For **Content Separator 1**, we can click on the component and change its background colour:
+
+![](/images/content-separator-1-change-colour-profile-template.png)
+
+![](/images/change-content-separator-1-background-colour-profile-template.png)
+
+And for **Content Separator 2**, we can click on the component and change its background colour:
+
+![](/images/change-content-separator-2-background-colour-profile-template.png)
+
+![](/images/change-content-separator-2-backgound-colour-profile-template.png)
+
+
+
+##### Change Name and Bio Label Colours:
+
+Both these labels are named accordingly:
+
+* Name Label
+* Bio Label
+
+By clicking on either one of the labels, you can change the text colour to suit your theme.
+
+![](/images/change-name-or-bio-label-colours-profile-template.png)
