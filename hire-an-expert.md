@@ -5,6 +5,6 @@ menus:
   main:
     weight: ""
     title: ""
-    identifier: helpful-resources
+    identifier: ""
 layout: page
 ---
