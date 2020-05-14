@@ -3,8 +3,8 @@ title: Resources
 subtitle: External links to helpful resources.
 menus:
   main:
-    title: Helpful Resources
+    title: Resources
     weight: 4
-    identifier: helpful-resources
+    identifier: ""
 layout: page
 ---
