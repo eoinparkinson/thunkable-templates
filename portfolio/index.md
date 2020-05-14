@@ -1,6 +1,7 @@
 ---
 title: Templates
-subtitle: There are more templates on the way. We promise!
+subtitle: There are new templates being added constantly, but here is what's
+  currently available!
 layout_style: tiles
 menus:
   main:
