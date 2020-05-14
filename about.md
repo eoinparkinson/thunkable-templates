@@ -5,8 +5,8 @@ img_path: ""
 menus:
   main:
     title: About
-    weight: 4
-    identifier: more-options
+    weight: 6
+    identifier: about
 layout: page
 ---
 > **This site is for you, to use as much as you want, however you want.**
