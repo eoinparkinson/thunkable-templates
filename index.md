@@ -47,12 +47,6 @@ sections:
     actions:
       - label: View Blog
         url: blog/index.html
-  - type: contactblock
-    component: contact_block.html
-    title: Want to get involved?
-    section_id: contact-form-home
-    subtitle: If you are interested in contributing to this website, please fill out
-      the form below.
 menus:
   main:
     title: Home
