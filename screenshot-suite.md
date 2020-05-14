@@ -13,9 +13,9 @@ layout: page
 
 ## Your first impression sells, make it good.
 
-Our Screenshot Suite will generate screenshots for iPhone X, iPad Pro, and iPhone 8, which are the necessary screenshot sizes **required** for the Apple App Store.
+This Screenshot Suite will generate screenshots for iPhone X, iPad Pro, and iPhone 8, which are the necessary screenshot sizes **required** for the Apple App Store.
 
-We also offer Android Screenshots at no additional cost, on request.
+Android Screenshots available at no additional cost, on request.
 
 You will receive the raw screenshot files, as well a range of mock-ups as seen above. Colours and device frame can be changed to your requirements.
 
