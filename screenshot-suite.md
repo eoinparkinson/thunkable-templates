@@ -5,8 +5,8 @@ subtitle: iPhone, iPad and Android screenshots, suitable for publishing to App
 menus:
   main:
     title: Screenshot Suite
-    weight: 6
-    identifier: screenshot-suite
+    weight: 4
+    identifier: more-options
 layout: page
 ---
 ![Screenshots Layout Example Image](/images/carded-screenshot-s-example-for-thunkable-templates.png)
